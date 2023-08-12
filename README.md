@@ -44,4 +44,4 @@ and earnings of each brand from Facebook's creator studio.
 Reporting the impact on overall views if Auto-play feature is included in
 a recipe page for desktop users.
 
-![My Career Timeline](https://github.com/Nishanth-71/Nishanth-Portfolio/blob/main/Nishanth_Career_Timeline.pdf "My Career Timeline")
+![My Career Timeline](https://github.com/Nishanth-71/Nishanth-Portfolio/blob/main/Nishanth_Career_Timeline_page-0001.jpeg "My Career Timeline")
